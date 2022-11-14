@@ -1,0 +1,15 @@
+{
+	"name": "Ubuntu",
+	"image": "mcr.microsoft.com/devcontainers/base:jammy"
+
+	// F https://containers.dev/implementors/features.
+	// "features": {},
+
+	// "postCreateCommand": "",
+
+	// Configure tool-specific properties
+	// "customizations": {},
+
+	// https://aka.ms/dev-containers-non-root.
+	// "remoteUser": "root"
+}
